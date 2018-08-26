@@ -1,5 +1,5 @@
 # spring-netflix-eureka-example
- Netflix Eureka server  implementation
+ Netflix Eureka server and client implementation
  
 Service Registration and Discovery
 
